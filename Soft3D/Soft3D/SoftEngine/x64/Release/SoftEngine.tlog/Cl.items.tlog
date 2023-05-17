@@ -1,0 +1,31 @@
+C:\Soft3D\Soft3D\src\gl.c;C:\Soft3D\Soft3D\SoftEngine\x64\Release\gl.obj
+C:\Soft3D\Soft3D\SoftEngine\AppState.cpp;C:\Soft3D\Soft3D\SoftEngine\x64\Release\AppState.obj
+C:\Soft3D\Soft3D\SoftEngine\AudioSystem.cpp;C:\Soft3D\Soft3D\SoftEngine\x64\Release\AudioSystem.obj
+C:\Soft3D\Soft3D\SoftEngine\Channel.cpp;C:\Soft3D\Soft3D\SoftEngine\x64\Release\Channel.obj
+C:\Soft3D\Soft3D\SoftEngine\Color.cpp;C:\Soft3D\Soft3D\SoftEngine\x64\Release\Color.obj
+C:\Soft3D\Soft3D\SoftEngine\depthBuffer.cpp;C:\Soft3D\Soft3D\SoftEngine\x64\Release\depthBuffer.obj
+C:\Soft3D\Soft3D\SoftEngine\gameInput.cpp;C:\Soft3D\Soft3D\SoftEngine\x64\Release\gameInput.obj
+C:\Soft3D\Soft3D\SoftEngine\Importer.cpp;C:\Soft3D\Soft3D\SoftEngine\x64\Release\Importer.obj
+C:\Soft3D\Soft3D\SoftEngine\kFont.cpp;C:\Soft3D\Soft3D\SoftEngine\x64\Release\kFont.obj
+C:\Soft3D\Soft3D\SoftEngine\mathhelper.cpp;C:\Soft3D\Soft3D\SoftEngine\x64\Release\mathhelper.obj
+C:\Soft3D\Soft3D\SoftEngine\mesh3D.cpp;C:\Soft3D\Soft3D\SoftEngine\x64\Release\mesh3D.obj
+C:\Soft3D\Soft3D\SoftEngine\node.cpp;C:\Soft3D\Soft3D\SoftEngine\x64\Release\node.obj
+C:\Soft3D\Soft3D\SoftEngine\nodeCamera.cpp;C:\Soft3D\Soft3D\SoftEngine\x64\Release\nodeCamera.obj
+C:\Soft3D\Soft3D\SoftEngine\nodeEntity.cpp;C:\Soft3D\Soft3D\SoftEngine\x64\Release\nodeEntity.obj
+C:\Soft3D\Soft3D\SoftEngine\nodeLight.cpp;C:\Soft3D\Soft3D\SoftEngine\x64\Release\nodeLight.obj
+C:\Soft3D\Soft3D\SoftEngine\pch.cpp;C:\Soft3D\Soft3D\SoftEngine\x64\Release\pch.obj
+C:\Soft3D\Soft3D\SoftEngine\pixelMap.cpp;C:\Soft3D\Soft3D\SoftEngine\x64\Release\pixelMap.obj
+C:\Soft3D\Soft3D\SoftEngine\QuickDraw.cpp;C:\Soft3D\Soft3D\SoftEngine\x64\Release\QuickDraw.obj
+C:\Soft3D\Soft3D\SoftEngine\Rect.cpp;C:\Soft3D\Soft3D\SoftEngine\x64\Release\Rect.obj
+C:\Soft3D\Soft3D\SoftEngine\renderer.cpp;C:\Soft3D\Soft3D\SoftEngine\x64\Release\renderer.obj
+C:\Soft3D\Soft3D\SoftEngine\rendererNitro.cpp;C:\Soft3D\Soft3D\SoftEngine\x64\Release\rendererNitro.obj
+C:\Soft3D\Soft3D\SoftEngine\sceneGraph.cpp;C:\Soft3D\Soft3D\SoftEngine\x64\Release\sceneGraph.obj
+C:\Soft3D\Soft3D\SoftEngine\ShaderEffect.cpp;C:\Soft3D\Soft3D\SoftEngine\x64\Release\ShaderEffect.obj
+C:\Soft3D\Soft3D\SoftEngine\SoftApp.cpp;C:\Soft3D\Soft3D\SoftEngine\x64\Release\SoftApp.obj
+C:\Soft3D\Soft3D\SoftEngine\SoftEngine.cpp;C:\Soft3D\Soft3D\SoftEngine\x64\Release\SoftEngine.obj
+C:\Soft3D\Soft3D\SoftEngine\SoftTypes.cpp;C:\Soft3D\Soft3D\SoftEngine\x64\Release\SoftTypes.obj
+C:\Soft3D\Soft3D\SoftEngine\Sound.cpp;C:\Soft3D\Soft3D\SoftEngine\x64\Release\Sound.obj
+C:\Soft3D\Soft3D\SoftEngine\Texture2D.cpp;C:\Soft3D\Soft3D\SoftEngine\x64\Release\Texture2D.obj
+C:\Soft3D\Soft3D\SoftEngine\VFile.cpp;C:\Soft3D\Soft3D\SoftEngine\x64\Release\VFile.obj
+C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.36.32522\modules\std.ixx;C:\Soft3D\Soft3D\SoftEngine\x64\Release\std.ixx.obj
+C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.36.32522\modules\std.compat.ixx;C:\Soft3D\Soft3D\SoftEngine\x64\Release\std.compat.ixx.obj

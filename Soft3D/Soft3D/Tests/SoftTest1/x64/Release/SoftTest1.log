@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Preview\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (SoftTest1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Scanning sources for module dependencies...
+LINK : fatal error C1047: The object or library file 'x64\Release\SoftTest1.obj' was created by a different version of the compiler than other objects like 'x64\Release\ASCredits.obj'; rebuild all objects and libraries with the same compiler
+LINK : fatal error LNK1257: code generation failed
